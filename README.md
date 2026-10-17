@@ -159,7 +159,7 @@ smart-forest-ai/
 ## 7. Installation & Setup
 1. Clone the Repository
 
-git clone https://github.com/Sristy-KS/Artificial-Intelligence-for-Smart-Forest-Management-and-Sustainable-Ecosystem-Monitoring
+git clone https://github.com/Sinchana-175/Artificial-Intelligence-for-Smart-Forest-Management-and-Sustainable-Ecosystem-Monitoring.git
 
 
 2. Set Up a Virtual Environment
