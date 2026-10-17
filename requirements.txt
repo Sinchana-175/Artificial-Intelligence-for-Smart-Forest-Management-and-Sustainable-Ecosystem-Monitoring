@@ -1,0 +1,8 @@
+streamlit
+folium
+streamlit-folium
+earthengine-api
+scikit-learn
+pandas
+numpy
+joblib
