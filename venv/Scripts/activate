@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\srist\OneDrive\Desktop\Smart_forest_models\venv"
+VIRTUAL_ENV="D:\smart_forest_models\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
